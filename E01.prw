@@ -1,7 +1,5 @@
 #INCLUDE "TOTVS.CH"
 
-SET PROCEDURE TO funcoes.prw
-
 User Function operacoesAritmeticas()
 
     local nNum1, nNum2, nSoma, nSubtrai, nMultiplica, nDivide
